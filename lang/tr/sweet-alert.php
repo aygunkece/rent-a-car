@@ -1,0 +1,26 @@
+<?php
+
+return array (
+  'alert-onOnay' => 'Ön onay vermek istediğinize emin misiniz?',
+  'alert-evet' => 'Evet',
+  'alert-hayir' => 'Hayır',
+  'alert-iptal' => 'İptal',
+  'alert-aktif' => 'Aktif',
+  'alert-pasif' => 'Pasif',
+  'alert-basarili' => 'Başarılı',
+  'alert-OnOnayVerildi' => 'Ön onay verildi',
+  'alert-tamam' => 'Tamam',
+  'alert-hataGeldi' => 'hata geldi',
+  'alert-bilgi' => 'Bilgi',
+  'alert-herhangiBirİslemYapilmadi' => 'Herhangi bir işlem yapılmadı',
+  'alert-text-firmaadialanibosgecilemez' => 'Firma adı alanı boş geçilemez',
+  'alert-text-yetkiliAdiAlaniBosGecilemez' => 'Yetkili adı alanı boş geçilemez',
+  'alert-text-emailBosGecilemez' => 'Email boş geçilemez',
+  'alert-text-yetkiliTelefonNumarasiAlaniBosGecilemez' => 'Yetkili telefon numarası alanı boş geçilemez',
+  'alert-text-lütfenSozlesmeyiOnaylayınız' => 'Lütfen sözleşmeyi onaylayınız.',
+  'alert-text-emailAdresiYaziniz' => 'Email Adresi Yazınız!',
+  'alert-text-emailAdresiniziKontrolEdiniz' => 'Email Adresinizi Kontrol Ediniz!',
+  'alert-text-parolaniziYaziniz' => 'Parolanızı Yazınız!',
+  'alert-title-uyari' => 'Uyarı',
+  'alert-title-hata' => 'Hata!',
+);
